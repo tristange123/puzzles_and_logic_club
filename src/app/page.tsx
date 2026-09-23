@@ -54,8 +54,7 @@ export default function Home() {
         <div>
           <h2>Built by solvers,<br />for solvers.</h2>
           <p>
-            Our student-led team designs welcoming events where every
-            perspective has a place at the table.
+            Our student-led team designs custom made puzzles suitables for all skill levels.
           </p>
           <a className="outline-link" href="mailto:puzzleslogics@nyu.edu">
             Meet the team <span aria-hidden="true">→</span>
