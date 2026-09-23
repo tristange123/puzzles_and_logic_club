@@ -20,10 +20,9 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="hero-grid" aria-hidden="true" />
         <div className="eyebrow"><span />NYU&apos;s puzzle community</div>
-        <h1>An appreciation<br />of a brilliant thought.</h1>
+        <h1>Puzzles and Logic<br />Society at NYU</h1>
         <p className="hero-copy">
-          A club for curious minds, clever ideas, and the satisfying moment
-          when everything clicks.
+          Currently awaiting approval.
         </p>
         <div className="hero-actions">
           <a className="button button-light" href="#events">
@@ -41,7 +40,7 @@ export default function Home() {
       <section id="about" className="light-section about">
         <p className="section-label">01 / About</p>
         <div>
-          <h2>For people who like a challenge.</h2>
+          <h2>For people who appreciate a brilliant thought.</h2>
           <p>
             Puzzles Logics brings together NYU students who love solving,
             creating, and discussing puzzles of every kind—from classic logic
